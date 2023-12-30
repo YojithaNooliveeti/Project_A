@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Suite name="nooliveeti">
+	<test name="test1">
+		<classes>
+			<class name="fw_TesNG.WebDriver_TestNG"/>
+
+		</classes>
+	</test>
+</Suite>
