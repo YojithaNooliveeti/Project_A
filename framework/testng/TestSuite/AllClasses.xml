@@ -1,0 +1,12 @@
+<suite name="Default suite">
+	<test name="Default test">
+		<classes>
+
+			<class name="framework.testng.TestSuite.Class1" />
+			<class name="framework.testng.TestSuite.Class2" />
+			<class name="framework.testng.TestSuite.Class3" />
+		</classes>
+	</test>
+
+</suite>
+
